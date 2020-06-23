@@ -1,5 +1,8 @@
 # Zadanie Rekrutacyjne: Aplikacja przetwarzająca transakcje walutowe
 
+
+## Live preview: [LINK](https://mieczyslawmilej.github.io/Currency_app/).
+
 Lista wymagań
 	• Wyświetlanie i definiowanie przelicznika walutowego (1 EURO = x PLN)
 	• Dodawanie transakcji walutowej: definiowana nazwa i kwota w euro
@@ -16,4 +19,3 @@ Lista wymagań
 	• Pokrycie kodu testami jednostkowymi będzie dodatkowym atutem
 
 
-Live preview: [LINK](https://mieczyslawmilej.github.io/Currency_app/).
