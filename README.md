@@ -1,4 +1,4 @@
-# Prosta Aplikacja przetwarzająca transakcje walutowe
+# Prosta Aplikacja przetwarzająca transakcje walutowe (Ract/Redux)
 
 
 ## Live preview: [LINK](https://mieczyslawmilej.github.io/Currency_app/).
