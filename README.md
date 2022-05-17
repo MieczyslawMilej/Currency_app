@@ -1,4 +1,4 @@
-# Zadanie Rekrutacyjne: Aplikacja przetwarzająca transakcje walutowe
+# Prosta Aplikacja przetwarzająca transakcje walutowe
 
 
 ## Live preview: [LINK](https://mieczyslawmilej.github.io/Currency_app/).
@@ -17,6 +17,5 @@ Lista wymagań
 	- Odświeżanie danych na żywo, w momencie modyfikacji
 	- Aplikacja powinna zostać napisana za pomocą ECMAScript 2015 lub nowszego, z użyciem bibliotek React i Redux
 	- Wymagane wsparcie przeglądarek: najnowszy Chrome lub Firefox
-	- Pokrycie kodu testami jednostkowymi będzie dodatkowym atutem
 
 
